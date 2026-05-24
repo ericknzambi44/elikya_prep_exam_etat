@@ -1,0 +1,24 @@
+services:
+  backend:
+    build: ./elikya_backend
+    ports:
+      - "8000:8000"
+    environment:
+      - PORT=8000
+    networks:
+      - elikya-net
+
+  frontend:
+    build: ./elikya_frontend
+    ports:
+      - "1420:80"
+    environment:
+      - VITE_API_URL=http://backend:8000
+    depends_on:
+      - backend
+    networks:
+      - elikya-net
+
+networks:
+  elikya-net:
+    driver: bridge
