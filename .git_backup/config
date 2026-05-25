@@ -1,0 +1,8 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = false
+	logallrefupdates = true
+[remote "origin"]
+	url = https://github.com/ericknzambi44/elikya_prep_exam_etat.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
