@@ -1,0 +1,13 @@
+matiere,annee,num_question,texte_question
+mathématiques,2022,1,Résoudre dans ℝ l'équation : 2x² - 5x + 2 = 0.
+mathématiques,2022,2,Calculer la dérivée de f(x) = 3x³ - 2x² + 5x - 7.
+mathématiques,2022,3,Déterminer la limite : lim (x→2) (x² - 4)/(x - 2).
+mathématiques,2022,4,Soit la fonction g(x) = ln(x²+1). Calculer g'(x).
+mathématiques,2022,5,"Une urne contient 5 boules rouges et 3 boules vertes. On tire deux boules
+successivement sans remise. Quelle est la probabilité d'obtenir deux boules rouges ?"
+mathématiques,2022,6,Résoudre le système : { 2x + y = 7 ; x - y = 2 }.
+mathématiques,2022,7,Calculer l'intégrale définie ∫₀¹ (3x² + 2x) dx.
+mathématiques,2022,8,"Déterminer l'équation de la droite passant par A(1,2) et B(3,6)."
+mathématiques,2022,9,Factoriser le polynôme P(x) = x³ - 6x² + 11x - 6.
+mathématiques,2022,10,"Un capital de 1000$ est placé à 5% d'intérêt composé annuel. Quel est le montant après
+3 ans ?"

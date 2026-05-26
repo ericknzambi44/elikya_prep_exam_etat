@@ -1,0 +1,9 @@
+venv/
+__pycache__/
+*.pyc
+.git/
+data/raw/
+data/processed/
+data/master_db.csv
+models/
+.env

@@ -1,0 +1,21 @@
+matiere,annee,num_question,texte_question
+mathématiques,2021,1,"Calculer la moyenne des nombres suivants : 12, 15, 17, 20."
+mathématiques,2021,2,Dterminer l’quation d’une droite passant par deux points.
+mathématiques,2021,3,Calculer le sinus d’un angle de 30°.
+mathématiques,2021,4,Dterminer l’image de 2 par f(x)=x²+1.
+mathématiques,2021,5,Dfinir une suite arithmtique.
+mathématiques,2021,6,Rsoudre l’inquation 3x-7>5.
+mathématiques,2021,7,Rsoudre l’quation suivante : 2x² - 5x + 3 = 0.
+mathématiques,2021,8,Tracer le tableau de signe de x²-9.
+mathématiques,2021,9,Calculer le discriminant de l’quation x²+4x+1=0.
+mathématiques,2021,10,Rsoudre le systme suivant : x+y=7 et 2x-y=5.
+mathématiques,2021,11,Rsoudre l’quation logarithmique ln(x)=2.
+mathématiques,2021,12,Calculer le terme gnral d’une suite gomtrique.
+mathématiques,2021,13,noncer le thorme de Pythagore.
+mathématiques,2021,14,Dterminer la primitive de f(x)=4x².
+mathématiques,2021,15,Calculer la drive de la fonction f(x)=3x³-2x+1.
+mathématiques,2021,16,Dterminer la limite de la fonction f(x)=1/x lorsque x tend vers l’infini.
+mathématiques,2021,17,Factoriser : x²-16.
+mathématiques,2021,18,Dvelopper et rduire : (2x+3)(x-4).
+mathématiques,2021,19,Calculer la surface d’un cercle de rayon 7 cm.
+mathématiques,2021,20,Dterminer le volume d’un cylindre de rayon 3 cm et hauteur 10 cm.

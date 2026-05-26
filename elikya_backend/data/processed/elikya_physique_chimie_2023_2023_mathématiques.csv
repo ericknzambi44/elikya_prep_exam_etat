@@ -1,0 +1,13 @@
+matiere,annee,num_question,texte_question
+mathématiques,2023,1,Énoncez la loi d'Ohm et donnez sa formule.
+mathématiques,2023,2,"Calculez la résistance équivalente de deux résistances R1=10Ω et R2=20Ω montées en
+série."
+mathématiques,2023,3,Quelle est la formule de l'énergie cinétique ?
+mathématiques,2023,4,Équilibrez l'équation chimique : C₃H₈ + O₂ → CO₂ + H₂O.
+mathématiques,2023,5,Quelle est la différence entre un atome et une molécule ?
+mathématiques,2023,6,"Un corps de masse 2 kg tombe d'une hauteur de 5 m. Calculez son énergie potentielle
+avant la chute (g=10 N/kg)."
+mathématiques,2023,7,Définissez le pH. Que signifie un pH = 7 ?
+mathématiques,2023,8,Quel est le nombre d'oxydation du soufre dans H₂SO₄ ?
+mathématiques,2023,9,Expliquez le principe de l'électrolyse.
+mathématiques,2023,10,Convertissez 25°C en Kelvin.

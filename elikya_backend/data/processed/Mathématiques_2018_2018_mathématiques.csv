@@ -1,0 +1,21 @@
+matiere,annee,num_question,texte_question
+mathématiques,2018,1,Rsoudre le systme suivant : x+y=7 et 2x-y=5.
+mathématiques,2018,2,Calculer le terme gnral d’une suite gomtrique.
+mathématiques,2018,3,Factoriser : x²-16.
+mathématiques,2018,4,Calculer le sinus d’un angle de 30°.
+mathématiques,2018,5,Dterminer la limite de la fonction f(x)=1/x lorsque x tend vers l’infini.
+mathématiques,2018,6,Dvelopper et rduire : (2x+3)(x-4).
+mathématiques,2018,7,Calculer le discriminant de l’quation x²+4x+1=0.
+mathématiques,2018,8,Rsoudre l’quation suivante : 2x² - 5x + 3 = 0.
+mathématiques,2018,9,Dterminer le volume d’un cylindre de rayon 3 cm et hauteur 10 cm.
+mathématiques,2018,10,Rsoudre l’inquation 3x-7>5.
+mathématiques,2018,11,"Calculer la moyenne des nombres suivants : 12, 15, 17, 20."
+mathématiques,2018,12,noncer le thorme de Pythagore.
+mathématiques,2018,13,Calculer la drive de la fonction f(x)=3x³-2x+1.
+mathématiques,2018,14,Dterminer l’image de 2 par f(x)=x²+1.
+mathématiques,2018,15,Dterminer l’quation d’une droite passant par deux points.
+mathématiques,2018,16,Calculer la surface d’un cercle de rayon 7 cm.
+mathématiques,2018,17,Rsoudre l’quation logarithmique ln(x)=2.
+mathématiques,2018,18,Dfinir une suite arithmtique.
+mathématiques,2018,19,Dterminer la primitive de f(x)=4x².
+mathématiques,2018,20,Tracer le tableau de signe de x²-9.
